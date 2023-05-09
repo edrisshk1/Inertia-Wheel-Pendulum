@@ -1,0 +1,7 @@
+pendulum.c:27:6:motor_setPwm	6
+pendulum.c:67:6:motor_variables_iter	4
+pendulum.c:104:6:pendulum_variables_iter	5
+pendulum.c:137:6:pendulum_LQR	3
+pendulum.c:163:6:pendulum_P	3
+pendulum.c:178:6:pendulum_swingup	7
+pendulum.c:223:6:pendulum_disable	1

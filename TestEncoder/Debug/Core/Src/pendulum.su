@@ -1,0 +1,7 @@
+../Core/Src/pendulum.c:27:6:motor_setPwm	16	static
+../Core/Src/pendulum.c:67:6:motor_variables_iter	32	static
+../Core/Src/pendulum.c:104:6:pendulum_variables_iter	32	static
+../Core/Src/pendulum.c:137:6:pendulum_LQR	24	static
+../Core/Src/pendulum.c:163:6:pendulum_P	16	static
+../Core/Src/pendulum.c:178:6:pendulum_swingup	16	static
+../Core/Src/pendulum.c:223:6:pendulum_disable	8	static
