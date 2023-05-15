@@ -4,7 +4,7 @@ This repository contains a complete project for an inertia wheel pendulum, inclu
 
 ## Table of Contents
 - [Description](#description)
-- [Mechanical Design (SolidWorks)](#mechanical-design-(solidworks))
+- [Mechanical Design (SolidWorks)](#mechanical-design)
 - [LQR Parameter Generation](#lqr-parameter-generation)
 - [Code (STM Cube IDE)](#embedded-c-code)
 - [LabVIEW Visualization](#labview-visualization)
@@ -14,7 +14,7 @@ This repository contains a complete project for an inertia wheel pendulum, inclu
 ## Description
 The inertia wheel pendulum is a physical system used in control systems education and research. It consists of a pendulum attached to a rotating wheel, allowing for interesting dynamic behavior and control challenges. This repository provides a comprehensive project that covers the mechanical design, embedded software, visualization, and control parameter generation.
 
-## Mechanical Design (SolidWorks)
+## Mechanical Design
 The `mechanical_design` directory contains all the necessary files for the 3D mechanical design of the inertia wheel pendulum. It includes CAD files, assembly instructions, and any additional documentation related to the physical construction of the system on SolidWorks.
 
 ## LQR Parameter Generation
