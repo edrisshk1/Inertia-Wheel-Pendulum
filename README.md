@@ -20,7 +20,7 @@ The `mechanical_design` directory contains all the necessary files for the 3D me
 ## LQR Parameter Generation
 The `lqr_parameter_generation` directory contains MATLAB scripts and functions for generating the LQR control parameters. LQR is a popular control technique used to stabilize and control linear systems. The provided MATLAB code helps calculate the optimal control gains for the inertia wheel pendulum.
 
-## Code (STM Cube IDE)
+## Embedded C Code
 The `embedded_c_code` directory contains the source code written in C language for programming the STM32 microcontroller that controls the inertia wheel pendulum. The code implements various control algorithms and interfaces with the sensors and actuators of the system.
 
 ## LabVIEW Visualization
