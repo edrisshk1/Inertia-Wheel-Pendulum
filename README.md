@@ -4,9 +4,9 @@ This repository contains a complete project for an inertia wheel pendulum, inclu
 
 ## Table of Contents
 - [Description](#description)
-- [Mechanical Design](#mechanical-design)
+- [Mechanical Design (SolidWorks)](#mechanical-design)
 - [LQR Parameter Generation](#lqr-parameter-generation)
-- [Embedded C Code](#embedded-c-code)
+- [Code (STM Cube IDE)](#embedded-c-code)
 - [LabVIEW Visualization](#labview-visualization)
 - [Installation](#installation)
 - [Usage](#usage)
